@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Halo, Nurul Safika! 🎉
 
-<!--
-**Safika31/Safika31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📋 Informasi Pribadi
+- **Nama**: Nurul Safika
+- **NIM**: 240605110213
+- **Kelas Praktikum**: F
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
+|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://drive.google.com/file/d/1lXEUyhR8J_fH3vBb_vi31Q-KME9ypOt3/view?usp=drive_link "Modul 01") | [Program](https://github.com/Safika31/Modul1_PracMobile "Template laporan") |
+|  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Modul 02](https://drive.google.com/file/d/17vhUb6Q7Wxrxw3CUzryJHftuMMlB9cpl/view?usp=drive_link "Modul 02") | [Program](https://github.com/Safika31/Modul2_PracMobile/tree/main/lib "Template laporan") |
+|  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://drive.google.com/file/d/1ygW0xIbuJwaHYtb5mPC92_VnYeIm823a/view?usp=drive_link "Modul 03") | [Program](https://github.com/Safika31/Modul3_PracMobile/tree/main/lib "Template laporan") |
+|  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://drive.google.com/file/d/1SrRzIfQIv5qyo1BM4J8dCpGKeEE5Q60K/view?usp=drive_link "Modul 04") | [Program](https://github.com/Safika31/Modul4_PracMobile/tree/main/lib "Template laporan") |
+|  5 | 17-09-2025  | 03  | Widget Flexible dan Expanded  | [Modul 05](https://drive.google.com/file/d/1RRkwwBJHodF6Wm1UR1yK40OSWxKs57s8/view?usp=drive_link "Modul 05") | [Program](https://github.com/Safika31/Modul5_PracMobile/tree/main/lib "Template laporan") |
+|  6 | 17-09-2025  | 03  | Widget Flexible dan Expanded  | [Modul 06](https://drive.google.com/file/d/1rWIaVOdSczeKoT-jC3m4oFMw_H0m_GFD/view?usp=drive_link "Modul 06") | [Program](https://github.com/Safika31/Modul6_PracMobile/tree/main/lib "Template laporan") 
+|  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07](https://drive.google.com/file/d/10XSZ6ERa801RDMOcDAIjn7EhAZKEfHI4/view?usp=drive_link "Modul 07") | [Program](https://github.com/Safika31/Modul7_PracMobile/tree/main/lib "Template laporan") |
+|  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08](https://drive.google.com/file/d/1N0qk112gaG63jUMt2YMqoYowrGWX1Ukl/view?usp=drive_link "Modul 08") | [Program](https://github.com/Safika31/Modul8_PracMobile/tree/main/lib "Template laporan") |
+|  9 | 01-10-2025  | 05  | StatefulWidget  | [Modul 09](https://drive.google.com/file/d/1CRbPk8UyZSDHq6RrxNmLuTOvReRuo6kX/view?usp=drive_link "Modul 09") | [Program](https://github.com/Safika31/Modul9_PracMobile/tree/main/lib "Template laporan") |
+|  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/1cUfPc3B7WZaAobumjqJn0xJAgNy9-p13/view?usp=drive_link "Modul 10") | [Program](https://github.com/Safika31/Modul10_PracMobile/tree/main/lib/viewmodel "Template laporan") |
+|  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/13FWwLYckkbOJpiUNw_-aibJI65IjW7gg/view?usp=drive_link "Modul 11") | [Program](https://github.com/Safika31/Modul11_PracMobile/tree/main/viewmodel "Template laporan") |
+|  11 | 25-10-2025  | 08  | Ujian Tengah Seemester  | [Modul 11](https://drive.google.com/file/u/1/d/1mmKpGY-AN3vzDCarMtxr2o_4jLoN6b8O/view?usp=drivesdk "UTS") | [Program](https://github.com/dwiandina08-oss/wisata_app "Template laporan") |
+|  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](https://drive.google.com/file/d/1yuZZlfHzO7k4Zpr8FfuIQrLT2vfEc3A-/view?usp=drive_link "Modul 12") | [Program](https://github.com/dwiandina08-oss/lokasi_flutter "Template laporan") |
+|  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](https://drive.google.com/file/d/1Dx264IRgwQPzcBBb2tF33sEKujytMuCy/view?usp=drive_link "Modul 13") | [Program](https://github.com/dwiandina08-oss/flutter_crud_api "Template laporan") |
+|  14 | 11-12-2025  | 11  | Ujian Akhir Semester  | [Modul 13](https://drive.google.com/file/d/1svKbM5HpSksckGown1KL_MsdPSKNVoaZ/view?usp=drive_link "UAS") | [Program](https://github.com/dwiandina08-oss/UAS "Template laporan") |
