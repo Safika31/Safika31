@@ -7,7 +7,7 @@
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://drive.google.com/file/d/1lXEUyhR8J_fH3vBb_vi31Q-KME9ypOt3/view?usp=drive_link "Modul 01") | [Program](https://github.com/Safika31/Modul1_PracMobile "Template laporan") |
+|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://drive.google.com/file/d/1lXEUyhR8J_fH3vBb_vi31Q-KME9ypOt3/view?usp=drive_link "Modul 01") | [Program](https://github.com/Safika31/Modul1_PracMobile "Template laporan") | 
 |  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Modul 02](https://drive.google.com/file/d/17vhUb6Q7Wxrxw3CUzryJHftuMMlB9cpl/view?usp=drive_link "Modul 02") | [Program](https://github.com/Safika31/Modul2_PracMobile/tree/main/lib "Template laporan") |
 |  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://drive.google.com/file/d/1ygW0xIbuJwaHYtb5mPC92_VnYeIm823a/view?usp=drive_link "Modul 03") | [Program](https://github.com/Safika31/Modul3_PracMobile/tree/main/lib "Template laporan") |
 |  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://drive.google.com/file/d/1SrRzIfQIv5qyo1BM4J8dCpGKeEE5Q60K/view?usp=drive_link "Modul 04") | [Program](https://github.com/Safika31/Modul4_PracMobile/tree/main/lib "Template laporan") |
